@@ -66,3 +66,4 @@
 
 *.json linguist-language=json5
 *.xaml linguist-language=xml
+*.xaml linguist-detectable
