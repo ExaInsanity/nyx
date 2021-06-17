@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyx.Gui", "Nyx.Gui\Nyx.Gui.csproj", "{42B438D6-5D5F-41BE-81FC-FF6571E6CC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B438D6-5D5F-41BE-81FC-FF6571E6CC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B438D6-5D5F-41BE-81FC-FF6571E6CC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B438D6-5D5F-41BE-81FC-FF6571E6CC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B438D6-5D5F-41BE-81FC-FF6571E6CC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7603804-6133-4F3C-B435-53C10CF69879}
+	EndGlobalSection
+EndGlobal
